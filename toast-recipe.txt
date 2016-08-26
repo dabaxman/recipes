@@ -1,0 +1,11 @@
+Ingredients
+
+1 slice of bread
+
+Directions:
+1. Insert bread into toaster.
+2. Activate toast operation on toaster.
+3. Wait for toast operation to complete or for bread to appear toasted.
+4. Remove toast from toaster.
+
+
